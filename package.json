@@ -1,0 +1,15 @@
+{
+  "name": "devops-midterm-23-ntu-cs-1201",
+  "version": "1.0.0",
+  "description": "DevOps Midterm Project",
+  "main": "src/grade.js",
+  "scripts": {
+    "test": "node --test",
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.15.0",
+    "globals": "^17.14.0"
+  }
+}
